@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/vite-template-v1/",
+    "build": "vite build --base=/vite-template-vanilla-js/",
     "preview": "vite preview"
   },
   "author": "Dorian DevUa <dorian.devua@gmail.com>",
